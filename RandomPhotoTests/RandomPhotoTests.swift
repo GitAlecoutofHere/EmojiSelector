@@ -3,6 +3,7 @@
 //  RandomPhotoTests
 //
 //  Created by Alec Overman on 9/27/23.
+// Taken from Youtube, IOSAcademy
 //
 
 import XCTest
